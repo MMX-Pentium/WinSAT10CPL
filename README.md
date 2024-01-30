@@ -5,7 +5,7 @@ Windows 10,11で、システム評価ツールの項目をコントロールパ�
 このスプリクトの使用は自己責任です。作者は一切の責任を取りません。  
 
 ## インストール方法
-1.[最新のファイルをダウンロード](https://github.com/MMX-Pentium/KONAMI-PCB-Clacker/releases)して、ファイルを解答します。  
+1.[最新のファイルをダウンロード](https://github.com/MMX-Pentium/WinSAT10CPL/releases)して、ファイルを解答します。  
 2.install.batを起動させてインストールをします。  
 
 Discordサーバー
